@@ -1,25 +1,25 @@
 # Site settings
-title: Mercy Ma
-SEOTitle: 小马哥的技术博客
+title: Mono Qi
+SEOTitle: 小 7 的技术博客
 header-img: img/home-bg.jpg
-email: mercyblitz@gmail.com
-description: "关于程序、设计以及架构 | 小马哥，Javaer ，Software Engineer"
-keyword: "小马哥, mercyblitz, Mercy Ma, 小马哥的技术博客"
-url: "https://weibo.com/mercyblitz"              # your host, for absolute URL
+email: 70CloudR@gmail.com
+description: "关于程序、设计以及架构 | 小 7，Javaer ，Software Engineer"
+keyword: "小 7, Mono Qi, 小 7 的技术博客"
+#url: "https://weibo.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 post:
-  author: mercyblitz
+  author: 小 7 
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: true
-weibo_username:     mercyblitz
-github_username:    mercyblitz
-twitter_username:   mercyblitz
-#facebook_username:  mercyblitz
+weibo_username:     小 7 
+github_username:    小 7 
+twitter_username:   小 7 
+#facebook_username:  小 7 
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: mercyblitz
+disqus_username: 小 7 
 
 # Netease settings
 netease_comment: false
@@ -80,7 +80,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大家好，我是小马哥"
+sidebar-about-description: "大家好，我是小 7"
 sidebar-avatar: /img/avatar-mecyblitz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
