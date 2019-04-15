@@ -9,16 +9,16 @@ keyword: "小 7, Mono Qi, 小 7 的技术博客"
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 post:
-  author: 小 7 
+  author: 小7 
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: true
-weibo_username:     小 7 
-github_username:    小 7 
-twitter_username:   小 7 
+weibo_username:     小7 
+github_username:    小7 
+twitter_username:   小7 
 #facebook_username:  小 7 
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -61,7 +61,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 小 7 
+disqus_username: 小7 
 
 # Netease settings
 netease_comment: false
